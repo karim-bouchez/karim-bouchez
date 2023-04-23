@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Moubah](https://github.com/karim-bouchez/moubah)<br>🌱 I’m currently learning frontend development<br>💬 Ask me about any web and IoT related stuff<br>📫 You can reach me at: [bouchez.karim@gmail.com](mailto:bouchez.karim@gmail.com) 
+🔭 I’m currently working on [Moubah](https://github.com/karim-bouchez/moubah)<br>🌱 I’m currently learning frontend development + GoLang<br>💬 Ask me about any web and IoT related stuff<br>📫 You can reach me at: [bouchez.karim@gmail.com](mailto:bouchez.karim@gmail.com) 
 
 <br>
 
